@@ -324,3 +324,9 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 
+.DS_Store
+
+.idea/
+
+data/
+temp/
